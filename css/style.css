@@ -1,0 +1,26 @@
+@charset "utf-8";
+h1 {
+    text-align: center;
+}
+p {
+    font-size: 30px;
+}
+
+.title1 {
+    border-bottom: 5px solid #000;
+}
+#string {
+    font-weight: bold;
+}
+.title1 span {
+    color: cadetblue;
+}
+.animal_logo {
+    padding: 80px;
+    margin: 80px 50px 40px 20px;
+    background: #00f;
+    border: 10px solid #f00;
+    width: 500px;
+    /* margin: 40px auto; */
+    margin-left: auto;
+}
